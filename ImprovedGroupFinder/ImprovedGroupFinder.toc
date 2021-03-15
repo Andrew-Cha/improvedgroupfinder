@@ -1,0 +1,6 @@
+## Interface: 90005
+## Title: Improved Group Finder
+## Author: Andrew-Cha
+## Version: 1.0
+
+main.lua
