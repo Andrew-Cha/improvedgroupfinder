@@ -1,0 +1,1 @@
+This is an addon aimed at improving the Group Finder currently in WoW.
